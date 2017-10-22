@@ -1,11 +1,8 @@
 # learnyounode-nodeschool
----
 
 Solutions to [Nodeschool](https://nodeschool.io/) workshop [learnyounode](https://github.com/workshopper/learnyounode)
 
 ![Workshop Exercises](learnyounode.png)
-
----
 
 ## How to run
 
